@@ -1,0 +1,47 @@
+[
+  {
+    "title": "Getting Started with React",
+    "content": "React is a powerful JavaScript library for building user interfaces. In this post, we'll go through the basics of components, props, and state.",
+    "category": "Web Development",
+    "author": "John Doe",
+    "image": "https://example.com/images/react-guide.png",
+    "createdAt": "2025-10-01T10:30:00Z",
+    "updatedAt": "2025-10-01T10:30:00Z"
+  },
+  {
+    "title": "Top 10 Exercises for a Strong Chest",
+    "content": "Building chest muscles requires a good mix of compound and isolation exercises. In this article, we’ll cover bench press, push-ups, dumbbell fly, and more.",
+    "category": "Fitness",
+    "author": "Sarah Johnson",
+    "image": "https://example.com/images/chest-workout.jpg",
+    "createdAt": "2025-09-20T15:45:00Z",
+    "updatedAt": "2025-09-20T15:45:00Z"
+  },
+  {
+    "title": "A Beginner's Guide to Cricket",
+    "content": "Cricket is one of the most popular sports in the world. This post covers the basic rules, player roles, and formats like Test, ODI, and T20.",
+    "category": "Sports",
+    "author": "Godson",
+    "image": "https://example.com/images/cricket-bat.jpg",
+    "createdAt": "2025-08-10T08:15:00Z",
+    "updatedAt": "2025-08-10T08:15:00Z"
+  },
+  {
+    "title": "How to Cook Pasta Like an Italian",
+    "content": "Cooking pasta is simple but requires a few tricks to get it right. We'll talk about water-to-pasta ratio, salt levels, and sauces.",
+    "category": "Food",
+    "author": "Maria Rossi",
+    "image": "https://example.com/images/pasta-dish.jpg",
+    "createdAt": "2025-07-05T12:00:00Z",
+    "updatedAt": "2025-07-05T12:00:00Z"
+  },
+  {
+    "title": "Mastering Time Management",
+    "content": "Time management is crucial for productivity. Learn about techniques like Pomodoro, Eisenhower Matrix, and time blocking.",
+    "category": "Lifestyle",
+    "author": "David Lee",
+    "image": "https://example.com/images/time-management.png",
+    "createdAt": "2025-06-15T09:20:00Z",
+    "updatedAt": "2025-06-15T09:20:00Z"
+  }
+]
