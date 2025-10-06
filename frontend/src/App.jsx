@@ -7,6 +7,7 @@ import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import PostDetail from './components/PostDetail'
 import Header from './components/header'
 import Footer from './components/Footer'
+import CategoryPost from './pages/CategoryPost'
 
 function App() {
   const [count, setCount] = useState(0)
@@ -18,6 +19,7 @@ function App() {
       <Routes>
         <Route path='/' element={<PostList/>}/>
         <Route path='/post/:id' element={<PostDetail/>}/>
+        <Route path='/posts/category/:id' element={<CategoryPost/>}/>
       </Routes>
     <Footer/>
     </Router>

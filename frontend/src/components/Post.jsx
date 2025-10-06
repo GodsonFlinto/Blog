@@ -11,7 +11,7 @@ const Post = ({post}) => {
 							</div>
 							<div className="card-body col-md-8">
 								<h5 className="card-title">{post.title}</h5>
-								<p className="card-text">{post.content.substr(0,100)}...</p>
+								<p className="card-text">{post.content ? post.content.substr(0,100) : "No Content Available"}...</p>
 								<Link to={`/post/${post._id}`} className="btn btn-primary">Read More</Link>
 							</div>
 						</div>
